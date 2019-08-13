@@ -1,0 +1,15 @@
+body {
+    padding-top: 65px;
+}
+
+#delete {
+    display: inline;
+}
+
+i.icon {
+    font-size: 1.5em;
+}
+
+.container.main {
+    margin-top: 7em;
+}
